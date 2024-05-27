@@ -2847,6 +2847,12 @@
         "reproductive_21-1": {
             "class": "reproductive_21"
         },
+        "reproductive_22-1": {
+            "class": "reproductive_22"
+        },
+        "reproductive_23-1": {
+            "class": "reproductive_23"
+        },
         "respiratory_10-1": {
             "class": "respiratory_10"
         },
@@ -4452,6 +4458,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T1-T2",
+                    "models": "ILX:0777094",
                     "connects": [
                         "S46_T1",
                         "S46_T2"
@@ -4459,6 +4466,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T2-T3",
+                    "models": "ILX:0777095",
                     "connects": [
                         "S46_T2",
                         "S46_T3"
@@ -4466,6 +4474,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T3-T4",
+                    "models": "ILX:0777096",
                     "connects": [
                         "S46_T3",
                         "S46_T4"
@@ -4473,6 +4482,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T4-T5",
+                    "models": "ILX:0777097",
                     "connects": [
                         "S46_T4",
                         "S46_T5"
@@ -4480,6 +4490,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T5-T6",
+                    "models": "ILX:0777098",
                     "connects": [
                         "S46_T5",
                         "S46_T6"
@@ -4717,7 +4728,7 @@
                     "models": "FMA:6231",
                     "connects": [
                         "ganglion_1-1",
-                        "label_1-1"
+                        "meningeal_vagus_1_branching_point"
                     ]
                 },
                 {
@@ -4749,7 +4760,7 @@
                     "models": "ILX:0784868",
                     "connects": [
                         "AVN_point_1",
-                        "label_2-1"
+                        "auricular_vagus_4_branching_point"
                     ]
                 },
                 {
@@ -4757,7 +4768,7 @@
                     "models": "ILX:0785937",
                     "connects": [
                         "AVN_point_1",
-                        "label_3-1"
+                        "auricular_vagus_5_branching_point"
                     ]
                 },
                 {
@@ -4765,7 +4776,7 @@
                     "models": "ILX:0788968",
                     "connects": [
                         "AVN_point_1",
-                        "label_4-1"
+                        "auricular_vagus_6_branching_point"
                     ]
                 },
                 {
@@ -4951,7 +4962,7 @@
                     "models": "ILX:0788232",
                     "connects": [
                         "SLN_point_4",
-                        "plexus_2-1"
+                        "SLN_15_branching_point"
                     ]
                 },
                 {
@@ -5014,7 +5025,7 @@
                     "models": "ILX:0788259",
                     "connects": [
                         "CVN_point_2",
-                        "plexus_3-1"
+                        "CVN_3_branching_point"
                     ]
                 },
                 {
@@ -5022,7 +5033,7 @@
                     "models": "ILX:0784874",
                     "connects": [
                         "CVN_point_2",
-                        "plexus_3-1"
+                        "CVN_4_branching_point"
                     ]
                 },
                 {
@@ -5030,7 +5041,7 @@
                     "models": "ILX:0791784",
                     "connects": [
                         "CVN_point_1",
-                        "plexus_3-1"
+                        "CVN_5_branching_point"
                     ]
                 },
                 {
@@ -5038,7 +5049,7 @@
                     "models": "ILX:0785405",
                     "connects": [
                         "CVN_point_1",
-                        "plexus_3-1"
+                        "CVN_6_branching_point"
                     ]
                 },
                 {
@@ -5214,7 +5225,7 @@
                     "models": "ILX:0789095",
                     "connects": [
                         "vagus_point_7",
-                        "plexus_4-1"
+                        "PLM_1_branching_point"
                     ]
                 },
                 {
@@ -5238,7 +5249,7 @@
                     "models": "ILX:0785247",
                     "connects": [
                         "esophageal_branching_point",
-                        "plexus_5-1"
+                        "esophageal_branching_point2"
                     ]
                 },
                 {
@@ -5246,7 +5257,7 @@
                     "models": "ILX:0790681",
                     "connects": [
                         "esophageal_branching_point",
-                        "plexus_5-1"
+                        "esophageal_branching_point2"
                     ]
                 },
                 {
@@ -6040,13 +6051,6 @@
                     ]
                 },
                 {
-                    "id": "pons_brngtn_cns",
-                    "connects": [
-                        "brain_26-1",
-                        "brain_13-1"
-                    ]
-                },
-                {
                     "id": "pons_medulla_cns",
                     "connects": [
                         "brain_26-1",
@@ -6662,17 +6666,13 @@
                     ]
                 },
                 {
-                    "id": "medulla_7",
-                    "connects": [
-                        "brain_27-1",
-                        "point_1"
-                    ]
-                },
-                {
                     "id": "pons_1",
                     "connects": [
                         "brain_13-1",
                         "brain_14-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1"
                     ]
                 },
                 {
@@ -6680,6 +6680,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_19-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6687,6 +6691,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_17-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6694,6 +6702,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_20-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6701,6 +6713,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_15-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6708,6 +6724,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_16-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6715,6 +6735,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_18-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -6877,7 +6901,7 @@
                 },
                 {
                     "id": "lacrimal",
-                    "models": "",
+                    "models": "UBERON:0011096",
                     "connects": [
                         "ophthalmic_branching_point",
                         "lacrimal_branching_point",
@@ -6894,11 +6918,10 @@
                 },
                 {
                     "id": "zygomatic",
-                    "models": "",
+                    "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
-                        "zygomatic_branching_point",
-                        "eye_1-1"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
