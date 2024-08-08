@@ -1404,7 +1404,8 @@
             "name": "eleventh thoracic dorsal root ganglion"
         },
         "S45_T12": {
-            "class": "spinal_45"
+            "models": "UBERON:0002855",
+            "name": "twelfth thoracic dorsal root ganglion"
         },
         "S45_T13": {
             "models": "ILX:0793359",
@@ -1447,7 +1448,8 @@
             "name": "third sacral dorsal root ganglion"
         },
         "S45_S4": {
-            "class": "spinal_45"
+            "models": "UBERON:0007713",
+            "name": "fourh sacral dorsal root ganglion"
         },
         "S45_S5": {
             "models": "UBERON:0002863",
@@ -2871,6 +2873,9 @@
         "reproductive_30-1": {
             "class": "reproductive_30"
         },
+        "reproductive_31-1": {
+            "class": "reproductive_31"
+        },
         "respiratory_10-1": {
             "class": "respiratory_10"
         },
@@ -4045,6 +4050,12 @@
         },
         "plexus_16-1": {
             "class": "plexus_16"
+        },
+        "plexus_17-1": {
+            "class": "plexus_17"
+        },
+        "plexus_18-1": {
+            "class": "plexus_18"
         },
         "label_1-1": {
             "class": "label_1"

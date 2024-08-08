@@ -743,6 +743,10 @@
         "term": "ILX:0794735",
         "name": "Smooth muscle of the isthmus of the Fallopian tube"
     },
+    "reproductive_31": {
+        "term": "UBERON:0002493",
+        "name": "Uterine artery"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
@@ -1534,6 +1538,14 @@
     "plexus_16": {
         "models": "UBERON:0011194",
         "name": "Ophthalmic plexus"
+    },
+    "plexus_17": {
+        "models": "ILX:0793806",
+        "name": "Prostatic nerve plexus",
+    },
+    "plexus_18": {
+        "models": "ILX:0793808",
+        "name": "Uterovaginal nerve plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",

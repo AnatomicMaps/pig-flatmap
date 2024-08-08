@@ -494,6 +494,10 @@
             [
                 "ILX:0793233",
                 []
+            ],
+            [
+                "UBERON:0002441",
+                []
             ]
         ]
     },
@@ -582,24 +586,6 @@
             "UBERON:0007240",
             [
                 "UBERON:0035965",
-                "ILX:0793082"
-            ]
-        ],
-        "name": "tunica adventitia of artery/wall of blood vessel/celiac ganglion- superior mesenteric ganglion complex",
-        "aliases": [
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0006637"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0035965",
                 "UBERON:0001264"
             ]
         ],
@@ -625,24 +611,6 @@
             [
                 "ILX:0793673",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0035965",
-                "ILX:0793082"
-            ]
-        ],
-        "name": "tunica adventitia of artery/wall of blood vessel/celiac ganglion- superior mesenteric ganglion complex",
-        "aliases": [
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001182"
-                ]
             ]
         ]
     },
@@ -724,6 +692,18 @@
             [
                 "UBERON:0002010",
                 []
+            ],
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0006637"
+                ]
+            ],
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0001182"
+                ]
             ]
         ]
     },
@@ -841,6 +821,10 @@
             [
                 "UBERON:0004917",
                 []
+            ],
+            [
+                "UBERON:0004713",
+                []
             ]
         ]
     },
@@ -926,18 +910,6 @@
         "aliases": [
             [
                 "ILX:0793698",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793233",
-            []
-        ],
-        "aliases": [
-            [
-                "UBERON:0002441",
                 []
             ]
         ]
@@ -1232,44 +1204,13 @@
             [
                 "ILX:0793834",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0016508",
-            []
-        ],
-        "name": "pelvic ganglion",
-        "aliases": [
+            ],
             [
                 "ILX:0793823",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000998",
+            ],
             [
-                "UBERON:0002367"
-            ]
-        ],
-        "aliases": [
-            [
-                "ILX:0793806",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
-        "aliases": [
-            [
-                "UBERON:0004713",
+                "ILX:0793884",
                 []
             ]
         ]
@@ -1292,54 +1233,18 @@
             "UBERON:0000057",
             []
         ],
-        "aliases": [
-            [
-                "UBERON:0011183",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793807",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
         "name": "urethra",
         "aliases": [
             [
                 "UBERON:0002366",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000996",
-            []
-        ],
-        "aliases": [
+            ],
             [
-                "ILX:0793809",
+                "ILX:0793807",
                 []
             ],
             [
-                "UBERON:0006608",
-                []
-            ],
-            [
-                "ILX:0793808",
+                "UBERON:0011183",
                 []
             ]
         ]
@@ -1449,6 +1354,10 @@
             [
                 "UBERON:0004243",
                 []
+            ],
+            [
+                "UBERON:0000428",
+                []
             ]
         ]
     },
@@ -1477,19 +1386,6 @@
         "aliases": [
             [
                 "ILX:0793878",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002367",
-            []
-        ],
-        "name": "prostate gland",
-        "aliases": [
-            [
-                "UBERON:0000428",
                 []
             ]
         ]
@@ -1594,28 +1490,7 @@
             [
                 "UBERON:0004805",
                 []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0016508",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793884",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000998",
-            []
-        ],
-        "name": "seminal vesicle",
-        "aliases": [
+            ],
             [
                 "UBERON:0004665",
                 []
@@ -1694,6 +1569,14 @@
         ],
         "name": "clitoris",
         "aliases": [
+            [
+                "ILX:0793809",
+                []
+            ],
+            [
+                "UBERON:0006608",
+                []
+            ],
             [
                 "UBERON:0008323",
                 []
