@@ -1404,7 +1404,8 @@
             "name": "eleventh thoracic dorsal root ganglion"
         },
         "S45_T12": {
-            "class": "spinal_45"
+            "models": "UBERON:0002855",
+            "name": "twelfth thoracic dorsal root ganglion"
         },
         "S45_T13": {
             "models": "ILX:0793359",
@@ -1447,7 +1448,8 @@
             "name": "third sacral dorsal root ganglion"
         },
         "S45_S4": {
-            "class": "spinal_45"
+            "models": "UBERON:0007713",
+            "name": "fourh sacral dorsal root ganglion"
         },
         "S45_S5": {
             "models": "UBERON:0002863",
@@ -1938,6 +1940,9 @@
         },
         "ganglion_25-1": {
             "class": "ganglion_25"
+        },
+        "ganglion_26-1": {
+            "class": "ganglion_26"
         },
         "body_1-1": {
             "class": "body_1"
@@ -2441,6 +2446,9 @@
         "digestive_31-1": {
             "class": "digestive_31"
         },
+        "digestive_33-1": {
+            "class": "digestive_33"
+        },
         "digestive_34-1": {
             "class": "digestive_34"
         },
@@ -2644,6 +2652,27 @@
         },
         "digestive_81-1": {
             "class": "digestive_81"
+        },
+        "digestive_82-1": {
+            "class": "digestive_82"
+        },
+        "digestive_83-1": {
+            "class": "digestive_83"
+        },
+        "digestive_87-1": {
+            "class": "digestive_87"
+        },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
         },
         "digestive_9-1": {
             "class": "digestive_9"
@@ -2852,6 +2881,24 @@
         },
         "reproductive_23-1": {
             "class": "reproductive_23"
+        },
+        "reproductive_26-1": {
+            "class": "reproductive_26"
+        },
+        "reproductive_27-1": {
+            "class": "reproductive_27"
+        },
+        "reproductive_28-1": {
+            "class": "reproductive_28"
+        },
+        "reproductive_29-1": {
+            "class": "reproductive_29"
+        },
+        "reproductive_30-1": {
+            "class": "reproductive_30"
+        },
+        "reproductive_31-1": {
+            "class": "reproductive_31"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4019,11 +4066,20 @@
         "plexus_13-1": {
             "class": "plexus_13"
         },
+        "plexus_14-1": {
+            "class": "plexus_14"
+        },
         "plexus_15-1": {
             "class": "plexus_15"
         },
         "plexus_16-1": {
             "class": "plexus_16"
+        },
+        "plexus_17-1": {
+            "class": "plexus_17"
+        },
+        "plexus_18-1": {
+            "class": "plexus_18"
         },
         "label_1-1": {
             "class": "label_1"
@@ -5183,6 +5239,7 @@
                 },
                 {
                     "id": "RLN_17",
+                    "models": "ILX:0738308",
                     "connects": [
                         "RLN_point_1",
                         "respiratory_11-1"

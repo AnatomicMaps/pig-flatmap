@@ -628,10 +628,38 @@
         "name": "Lower Esophagus"
     },
     "digestive_81": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
+        "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
     },
-    "reproductive_1": {
+    "digestive_82": {
+        "term": "UBERON:0001832",
+        "name": "Sublingual gland"
+    },
+    "digestive_83": {
+        "term": "UBERON:0002059",
+        "name": "Submandibular ganglion"
+    },
+    "digestive_87": {
+        "term": "UBERON:0000483",
+        "name": "epithelium"
+    },
+    "digestive_88": {
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+    "digestive_89": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+    "digestive_90": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+    "digestive_91": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
+    },
+	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -722,6 +750,30 @@
     "reproductive_23": {
         "term": "UBERON:0002118",
         "name": "Right ovary"
+    },
+    "reproductive_26": {
+        "term": "UBERON:0003984",
+        "name": "Uterine tube infundibulum"
+    },
+    "reproductive_27": {
+        "term": "UBERON:0012648",
+        "name": "Ampulla of uterine tube"
+    },
+    "reproductive_28": {
+        "term": "UBERON:8410010",
+        "name": "Fimbria of uterine tube"
+    },
+    "reproductive_29": {
+        "term": "ILX:0794736",
+        "name": "Blood vessel of the isthmus of the Fallopian tube"
+    },
+    "reproductive_30": {
+        "term": "ILX:0794735",
+        "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
+    "reproductive_31": {
+        "term": "UBERON:0002493",
+        "name": "Uterine artery"
     },
     "muscle_1": {
         "term": "ILX:0738319",
@@ -1287,7 +1339,7 @@
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
     },
-    "bolser_3": {
+    "recurrent_laryngeal_17": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
     },
@@ -1443,6 +1495,10 @@
         "models": "UBERON:0001675",
         "name": "Trigeminal Ganglion"
     },
+    "ganglion_26": {
+        "models": "ILX:0793833",
+        "name": "Ovarian nerve plexus parasympathetic ganglion"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
@@ -1510,6 +1566,14 @@
     "plexus_16": {
         "models": "UBERON:0011194",
         "name": "Ophthalmic plexus"
+    },
+    "plexus_17": {
+        "models": "ILX:0793806",
+        "name": "Prostatic nerve plexus"
+    },
+    "plexus_18": {
+        "models": "ILX:0793808",
+        "name": "Uterovaginal nerve plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",
