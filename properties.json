@@ -2446,6 +2446,9 @@
         "digestive_31-1": {
             "class": "digestive_31"
         },
+        "digestive_33-1": {
+            "class": "digestive_33"
+        },
         "digestive_34-1": {
             "class": "digestive_34"
         },
@@ -2649,6 +2652,27 @@
         },
         "digestive_81-1": {
             "class": "digestive_81"
+        },
+        "digestive_82-1": {
+            "class": "digestive_82"
+        },
+        "digestive_83-1": {
+            "class": "digestive_83"
+        },
+        "digestive_87-1": {
+            "class": "digestive_87"
+        },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
         },
         "digestive_9-1": {
             "class": "digestive_9"

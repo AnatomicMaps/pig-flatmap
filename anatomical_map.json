@@ -628,10 +628,38 @@
         "name": "Lower Esophagus"
     },
     "digestive_81": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
+        "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
     },
-    "reproductive_1": {
+    "digestive_82": {
+        "term": "UBERON:0001832",
+        "name": "Sublingual gland"
+    },
+    "digestive_83": {
+        "term": "UBERON:0002059",
+        "name": "Submandibular ganglion"
+    },
+    "digestive_87": {
+        "term": "UBERON:0000483",
+        "name": "epithelium"
+    },
+    "digestive_88": {
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+    "digestive_89": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+    "digestive_90": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+    "digestive_91": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
+    },
+	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -1541,7 +1569,7 @@
     },
     "plexus_17": {
         "models": "ILX:0793806",
-        "name": "Prostatic nerve plexus",
+        "name": "Prostatic nerve plexus"
     },
     "plexus_18": {
         "models": "ILX:0793808",

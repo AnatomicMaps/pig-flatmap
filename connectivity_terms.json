@@ -550,13 +550,36 @@
     },
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0001264"
-            ]
+            "UBERON:0001193",
+            []
         ],
-        "name": "tunica adventitia of artery/pancreas",
+        "name": "hepatic artery",
         "aliases": [
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0001193"
+                ]
+            ],
+            [
+                "ILX:0793676",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001195",
+            []
+        ],
+        "name": "Inferior pancreatocoduodenal artery",
+        "aliases": [
+            [
+                "UBERON:0005734",
+                [
+                    "UBERON:0001195"
+                ]
+            ],
             [
                 "ILX:0793674",
                 []
@@ -565,83 +588,19 @@
     },
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0035965",
-                "UBERON:0002107"
-            ]
+            "UBERON:0001194",
+            []
         ],
-        "name": "tunica adventitia of artery/wall of blood vessel/liver",
-        "aliases": [
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001193"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0035965",
-                "UBERON:0001264"
-            ]
-        ],
-        "name": "tunica adventitia of artery/wall of blood vessel/pancreas",
-        "aliases": [
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001195"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "ILX:0793563"
-            ]
-        ],
-        "name": "tunica adventitia of artery/splenic nerve",
-        "aliases": [
-            [
-                "ILX:0793673",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
-            [
-                "ILX:0793563"
-            ]
-        ],
-        "name": "tunica adventitia of artery/splenic nerve",
+        "name": "splenic artery",
         "aliases": [
             [
                 "UBERON:0005734",
                 [
                     "UBERON:0001194"
                 ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0007240",
+            ],
             [
-                "UBERON:0002107"
-            ]
-        ],
-        "name": "tunica adventitia of artery/liver",
-        "aliases": [
-            [
-                "ILX:0793676",
+                "ILX:0793673",
                 []
             ]
         ]
@@ -712,18 +671,6 @@
             "UBERON:0001264",
             []
         ],
-        "aliases": [
-            [
-                "UBERON:0000006",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001264",
-            []
-        ],
         "name": "pancreas",
         "aliases": [
             [
@@ -734,12 +681,10 @@
     },
     {
         "id": [
-            "UBERON:0002384",
-            [
-                "UBERON:0001264"
-            ]
+            "UBERON:0001263",
+            []
         ],
-        "name": "connective tissue/pancreas",
+        "name": "pancreatic acinus",
         "aliases": [
             [
                 "UBERON:0002384",
@@ -753,28 +698,17 @@
         "id": [
             "UBERON:0000483",
             [
-                "UBERON:0001264"
+                "UBERON:0001263"
             ]
         ],
-        "name": "epithelium/pancreas",
+        "name": "epithelium/pancreatic acinus",
         "aliases": [
             [
                 "ILX:0793613",
                 [
                     "UBERON:0001263"
                 ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000483",
-            [
-                "UBERON:0001264"
-            ]
-        ],
-        "name": "epithelium/pancreas",
-        "aliases": [
+            ],
             [
                 "UBERON:0005769",
                 [
@@ -824,6 +758,18 @@
             ],
             [
                 "UBERON:0004713",
+                []
+            ],
+            [
+                "UBERON:0002366",
+                []
+            ],
+            [
+                "ILX:0793807",
+                []
+            ],
+            [
+                "UBERON:0011183",
                 []
             ]
         ]
@@ -968,7 +914,7 @@
     },
     {
         "id": [
-            "UBERON:0002108",
+            "UBERON:0002115",
             []
         ],
         "aliases": [
@@ -1004,22 +950,10 @@
     },
     {
         "id": [
-            "UBERON:0001723",
+            "UBERON:0001832",
             []
         ],
-        "name": "tongue",
-        "aliases": [
-            [
-                "UBERON:0001832",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001723",
-            []
-        ],
+        "name": "sublingual gland",
         "aliases": [
             [
                 "ILX:0793739",
@@ -1029,61 +963,13 @@
     },
     {
         "id": [
-            "UBERON:0001723",
+            "UBERON:0001736",
             []
         ],
-        "aliases": [
-            [
-                "UBERON:0002059",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001723",
-            []
-        ],
+        "name": "submandibular gland",
         "aliases": [
             [
                 "ILX:0793737",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001723",
-            []
-        ],
-        "aliases": [
-            [
-                "UBERON:0001736",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0005020",
-            []
-        ],
-        "name": "mucosa of tongue",
-        "aliases": [
-            [
-                "UBERON:0003729",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001723",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793738",
                 []
             ]
         ]
@@ -1097,6 +983,14 @@
         "aliases": [
             [
                 "UBERON:0003721",
+                []
+            ],
+            [
+                "UBERON:0003729",
+                []
+            ],
+            [
+                "ILX:0793738",
                 []
             ]
         ]
@@ -1135,6 +1029,10 @@
         "aliases": [
             [
                 "ILX:0793803",
+                []
+            ],
+            [
+                "UBERON:0002014",
                 []
             ]
         ]
@@ -1211,40 +1109,6 @@
             ],
             [
                 "ILX:0793884",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0005303",
-            []
-        ],
-        "name": "hypogastric nerve",
-        "aliases": [
-            [
-                "UBERON:0002014",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
-        "name": "urethra",
-        "aliases": [
-            [
-                "UBERON:0002366",
-                []
-            ],
-            [
-                "ILX:0793807",
-                []
-            ],
-            [
-                "UBERON:0011183",
                 []
             ]
         ]
