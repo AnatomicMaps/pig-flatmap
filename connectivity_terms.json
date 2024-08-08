@@ -1636,27 +1636,6 @@
     },
     {
         "id": [
-            "UBERON:0003889",
-            []
-        ],
-        "name": "fallopian tube",
-        "aliases": [
-            [
-                "UBERON:0003984",
-                []
-            ],
-            [
-                "UBERON:0012648",
-                []
-            ],
-            [
-                "UBERON:8410010",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0000995",
             []
         ],
@@ -1664,32 +1643,6 @@
         "aliases": [
             [
                 "UBERON:0015173",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793769",
-            ["UBERON:0003889"]
-        ],
-        "name": "smooth muscle/fallopian tube",
-        "aliases": [
-            [
-                "ILX:0794735",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001981",
-            ["UBERON:0003889"]
-        ],
-        "name": "blood vessel/fallopian tube",
-        "aliases": [
-            [
-                "ILX:0794736",
                 []
             ]
         ]

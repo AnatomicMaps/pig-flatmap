@@ -723,6 +723,26 @@
         "term": "UBERON:0002118",
         "name": "Right ovary"
     },
+    "reproductive_26": {
+        "term": "UBERON:0003984",
+        "name": "Uterine tube infundibulum"
+    },
+    "reproductive_27": {
+        "term": "UBERON:0012648",
+        "name": "Ampulla of uterine tube"
+    },
+    "reproductive_28": {
+        "term": "UBERON:8410010",
+        "name": "Fimbria of uterine tube"
+    },
+    "reproductive_29": {
+        "term": "ILX:0794736",
+        "name": "Blood vessel of the isthmus of the Fallopian tube"
+    },
+    "reproductive_30": {
+        "term": "ILX:0794735",
+        "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
@@ -1442,6 +1462,10 @@
     "ganglion_25": {
         "models": "UBERON:0001675",
         "name": "Trigeminal Ganglion"
+    },
+    "ganglion_26": {
+        "models": "ILX:0793833",
+        "name": "Ovarian nerve plexus parasympathetic ganglion"
     },
     "lung_2": {
         "term": "UBERON:0003715",
