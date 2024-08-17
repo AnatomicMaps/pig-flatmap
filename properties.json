@@ -4234,9 +4234,15 @@
             "type": "nerve",
             "models": "ILX:0787830"
         },
-        "superior_laryngeal_1": {
+        "recurrent_laryngeal_16": {
             "type": "nerve",
-            "models": "UBERON:0011326"
+            "models": "ILX:0738309"
+        },
+        "recurrent_laryngeal_17": {
+            "type": "nerve"
+        },
+        "superior_laryngeal_1": {
+            "type": "nerve"
         },
         "superior_laryngeal_2": {
             "type": "nerve",
@@ -4305,6 +4311,12 @@
         "superior_laryngeal_18": {
             "type": "nerve",
             "models": "ILX:0786237"
+        },
+        "superior_laryngeal_19": {
+            "type": "nerve"
+        },
+        "superior_laryngeal_20": {
+            "type": "nerve"
         },
         "vagus_7": {
             "type": "nerve",
@@ -4417,10 +4429,6 @@
         "glossopharyngeal_2": {
             "type": "nerve",
             "models": "ILX:0738313"
-        },
-        "recurrent_laryngeal_16": {
-            "type": "nerve",
-            "models": "ILX:0738309"
         },
         "glossopharyngeal_4": {
             "type": "nerve",
