@@ -63,6 +63,26 @@
         "term": "UBERON:0002384",
         "name": "connective tissue"
     },
+    "urinary_17": {
+        "term": "UBERON:0004538",
+        "name": "left kidney"
+    },
+    "urinary_18": {
+        "term": "UBERON:0004539",
+        "name": "right kidney"
+    },
+    "urinary_19": {
+        "term": "UBERON:0001184",
+        "name": "renal artery"
+    },
+    "urinary_21": {
+        "term": "ILX:0795054",
+        "name": "upper ureter"
+    },
+    "urinary_22": {
+        "term": "ILX:0795055",
+        "name": "lower ureter"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
@@ -659,7 +679,19 @@
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
-	"reproductive_1": {
+	"digestive_92": {
+        "term": "UBERON:0002017",
+        "name": "portal vein"
+    },
+    "digestive_93": {
+        "term": "UBERON:0001174",
+        "name": "common bile duct"
+    },
+    "digestive_94": {
+        "term": "UBERON:0001152",
+        "name": "cystic duct"
+    },
+    "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -1574,6 +1606,14 @@
     "plexus_18": {
         "models": "ILX:0793808",
         "name": "Uterovaginal nerve plexus"
+    },
+    "plexus_19": {
+        "models": "ILX:0771304",
+        "name": "Hepatic plexus"
+    },
+    "plexus_20": {
+        "models": "ILX:0795011",
+        "name": "periarterial neural plexus of the common hepatic artery"
     },
     "label_4": {
         "term": "UBERON:0002364",
