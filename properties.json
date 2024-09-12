@@ -1457,7 +1457,8 @@
             "name": "third sacral dorsal root ganglion"
         },
         "S45_S4": {
-            "class": "spinal_45"
+            "models": "UBERON:0007713",
+            "name": "fourh sacral dorsal root ganglion"
         },
         "S45_S5": {
             "models": "UBERON:0002863",
@@ -2071,12 +2072,6 @@
         },
         "brain_13-1": {
             "class": "brain_13"
-        },
-        "brain_9-1": {
-            "class": "brain_9"
-        },
-        "brain_9-2": {
-            "class": "brain_9"
         },
         "brain_14-1": {
             "class": "brain_14"
@@ -5404,7 +5399,6 @@
                     "connects": [
                         "T1_spinal",
                         "splanchnic_point-1"
-
                     ]
                 },
                 {
@@ -5428,7 +5422,6 @@
                         "splanchnic_point-4"
                     ]
                 },
-
                 {
                     "id": "T5_splanchnic",
                     "connects": [
