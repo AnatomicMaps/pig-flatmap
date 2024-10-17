@@ -2028,6 +2028,12 @@
         "ganglion_26-1": {
             "class": "ganglion_26"
         },
+        "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion ",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
