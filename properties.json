@@ -1884,8 +1884,16 @@
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S3-1": {
+            "models": "ILX:0791971",
+            "name": "Third sacral nerve"
+        },
         "S50_S4": {
             "class": "spinal_50"
+        },
+        "S50_S4-1": {
+            "models": "ILX:0792327",
+            "name": "Fourth sacral nerve"
         },
         "S50_T1": {
             "class": "spinal_50"
@@ -2019,6 +2027,12 @@
         },
         "ganglion_26-1": {
             "class": "ganglion_26"
+        },
+        "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion ",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "body_1-1": {
             "class": "body_1"
@@ -4725,61 +4739,6 @@
                     "connects": [
                         "S46_T13",
                         "S46_L1"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L1-L2",
-                    "models": "ILX:0777088",
-                    "connects": [
-                        "S46_L1",
-                        "S46_L2"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L2-L3",
-                    "models": "ILX:0777089",
-                    "connects": [
-                        "S46_L2",
-                        "S46_L3"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L3-L4",
-                    "models": "ILX:0777090",
-                    "connects": [
-                        "S46_L3",
-                        "S46_L4"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L4-L5",
-                    "models": "ILX:0777091",
-                    "connects": [
-                        "S46_L4",
-                        "S46_L5"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L5-L6",
-                    "models": "ILX:0777092",
-                    "connects": [
-                        "S46_L5",
-                        "S46_L6"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L6-S1",
-                    "models": "ILX:0777093",
-                    "connects": [
-                        "S46_L6",
-                        "S46_S1"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_S1-S2",
-                    "connects": [
-                        "S46_S1",
-                        "S46_S2"
                     ]
                 },
                 {
