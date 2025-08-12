@@ -4671,7 +4671,7 @@
     "networks": [
         {
             "id": "neural",
-            "centrelines": [
+            "no-centrelines": [
                 {
                     "id": "SCG-MCG_sympathetic_cord",
                     "models": "ILX:0738292",
