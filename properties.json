@@ -4623,7 +4623,8 @@
             "models": "ILX:0793632"
         },
         "vagus": {
-            "class": "vagus_n"
+            "class": "vagus_n",
+            "type": "nerve"
         }
     },
     "networks": [
