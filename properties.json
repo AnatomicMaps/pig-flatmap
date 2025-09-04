@@ -3825,11 +3825,11 @@
         },
         "ICG-T1_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793233"
+            "models": "ILX:0738291"
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793234"
+            "models": "ILX:0738290"
         },
         "lacrimal_zygomatic_c": {
             "type": "nerve",
