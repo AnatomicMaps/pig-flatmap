@@ -3615,7 +3615,8 @@
             "type": "nerve"
         },
         "superior_laryngeal_1": {
-            "type": "nerve"
+            "type": "nerve",
+            "models": "UBERON:0011326"
         },
         "superior_laryngeal_2": {
             "type": "nerve",
@@ -3874,6 +3875,10 @@
         "nasopalatine_c": {
             "type": "nerve",
             "models": "UBERON:0008810"
+        },
+        "tympanic_c": {
+            "type": "nerve",
+            "models": "UBERON:0036216"
         }
     },
     "networks": [
