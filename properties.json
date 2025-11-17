@@ -3612,7 +3612,8 @@
             "models": "ILX:0738309"
         },
         "recurrent_laryngeal_17": {
-            "type": "nerve"
+            "type": "nerve",
+            "models": "ILX:0738308"
         },
         "superior_laryngeal_1": {
             "type": "nerve",
@@ -3879,6 +3880,27 @@
         "tympanic_c": {
             "type": "nerve",
             "models": "UBERON:0036216"
+        },
+        "ardell_1_c": {
+            "type": "nerve"
+        },
+        "ardell_4_c": {
+            "type": "nerve"
+        },
+        "ardell_5_c": {
+            "type": "nerve"
+        },
+        "ardell_6_c": {
+            "type": "nerve"
+        },
+        "n_76_c": {
+            "type": "nerve"
+        },
+        "n_77_c": {
+            "type": "nerve"
+        },
+        "bolser_9_c": {
+            "type": "nerve"
         }
     },
     "networks": [
