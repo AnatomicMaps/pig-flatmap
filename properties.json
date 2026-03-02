@@ -2011,6 +2011,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_28-1": {
+            "models": "ILX:0795345",
+            "name": "myenteric nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_32-1": {
+            "models": "ILX:0795349",
+            "name": "submucosal nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_6-1": {
             "class": "body_6"
         },
@@ -2504,6 +2516,15 @@
         },
         "digestive_94-1": {
             "class": "digestive_94"
+        },
+        "digestive_95-1": {
+            "class": "digestive_95"
+        },
+        "digestive_97-1": {
+            "class": "digestive_97"
+        },
+        "digestive_98-1": {
+            "class": "digestive_98"
         },
         "digestive_9-1": {
             "class": "digestive_9"

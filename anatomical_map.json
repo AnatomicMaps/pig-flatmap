@@ -687,6 +687,18 @@
         "term": "UBERON:0001152",
         "name": "cystic duct"
     },
+    "digestive_95": {
+        "term": "ILX:0795342",
+        "name": "upper part of the anal canal"
+    },
+    "digestive_97": {
+        "term": "UBERON:0012377",
+        "name": "muscle layer of jejunum"
+    },
+    "digestive_98": {
+        "term": "ILX:0773238",
+        "name": "Muscle layer of transverse colon"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
