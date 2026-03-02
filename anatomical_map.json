@@ -719,6 +719,10 @@
         "term": "ILX:0795341",
         "name": "muscle layer of proximal colon"
     },
+    "digestive_105": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
