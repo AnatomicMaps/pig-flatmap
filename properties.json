@@ -2550,12 +2550,6 @@
         "digestive_95-1": {
             "class": "digestive_95"
         },
-        "digestive_97-1": {
-            "class": "digestive_97"
-        },
-        "digestive_98-1": {
-            "class": "digestive_98"
-        },
         "digestive_99-1": {
             "class": "digestive_99"
         },
@@ -2576,6 +2570,15 @@
         },
         "digestive_105-1": {
             "class": "digestive_105"
+        },
+        "digestive_106-1": {
+            "class": "digestive_106"
+        },
+        "digestive_107-1": {
+            "class": "digestive_107"
+        },
+        "digestive_108-1": {
+            "class": "digestive_108"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"

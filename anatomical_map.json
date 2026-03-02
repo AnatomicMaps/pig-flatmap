@@ -687,14 +687,6 @@
         "term": "ILX:0795342",
         "name": "upper part of the anal canal"
     },
-    "digestive_97": {
-        "term": "UBERON:0012377",
-        "name": "muscle layer of jejunum"
-    },
-    "digestive_98": {
-        "term": "ILX:0773238",
-        "name": "Muscle layer of transverse colon"
-    },
     "digestive_99": {
         "term": "UBERON:0001902",
         "name": "epithelium of small intestine"
@@ -722,6 +714,18 @@
     "digestive_105": {
         "term": "UBERON:0005436",
         "name": "common hepatic artery"
+    },
+    "digestive_106": {
+        "term": "UBERON:0011198",
+        "name": "muscle layer of large intestine"
+    },
+    "digestive_107": {
+        "term": "UBERON:0001278",
+        "name": "epithelium of large intestine"
+    },
+    "digestive_108": {
+        "term": "UBERON:0004222",
+        "name": "stomach smooth muscle"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
