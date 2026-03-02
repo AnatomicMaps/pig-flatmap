@@ -451,10 +451,6 @@
         "term": "UBERON:0008972",
         "name": "right colon"
     },
-    "digestive_29": {
-        "term": "UBERON:0001157",
-        "name": "transverse colon"
-    },
     "digestive_30": {
         "term": "UBERON:0008971",
         "name": "left colon"

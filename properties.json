@@ -2017,6 +2017,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_29-1": {
+            "models": "UBERON:0001809",
+            "name": "enteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "ganglion_32-1": {
             "models": "ILX:0795349",
             "name": "submucosal nerve plexus ganglion of large intestine",
@@ -2304,6 +2310,9 @@
         "digestive_14-2": {
             "class": "digestive_14"
         },
+        "digestive_16-1": {
+            "class": "digestive_16"
+        },
         "digestive_17-1": {
             "class": "digestive_17"
         },
@@ -2318,6 +2327,9 @@
         },
         "digestive_21-1": {
             "class": "digestive_21"
+        },
+        "digestive_24-1": {
+            "class": "digestive_24"
         },
         "digestive_25-1": {
             "class": "digestive_25"
