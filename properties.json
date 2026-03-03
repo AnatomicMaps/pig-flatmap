@@ -3566,9 +3566,15 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "plexus_24-1": {
+        "plexus_5-1": {
             "models": "ILX:0793704",
             "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_24-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
             "type": "ganglion",
             "class": "auto-hide"
         },
