@@ -2391,6 +2391,9 @@
         "digestive_49-1": {
             "class": "digestive_49"
         },
+        "digestive_5-1": {
+            "class": "digestive_5"
+        },
         "digestive_51-1": {
             "class": "digestive_51"
         },
@@ -2778,6 +2781,9 @@
         },
         "reproductive_32-1": {
             "class": "reproductive_32"
+        },
+        "reproductive_33-1": {
+            "class": "reproductive_33"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
