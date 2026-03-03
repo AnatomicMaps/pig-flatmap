@@ -1803,6 +1803,22 @@
         "term": "UBERON:0001630",
         "name": "muscle organ"
     },
+    "label_32": {
+        "term": "UBERON:0001456",
+        "name": "face"
+    },
+    "label_33": {
+        "term": "UBERON:0000033",
+        "name": "head"
+    },
+    "label_34": {
+        "term": "UBERON:0000167",
+        "name": "oral cavity"
+    },
+    "label_35": {
+        "term": "UBERON:0002075",
+        "name": "viscus"
+    },
     "vagus_n": {
         "term": "UBERON:0001759",
         "name": "Vagus Nerve"
